@@ -13,3 +13,5 @@ test change VS before pull
 
 1st want duplicate (from web)
 change by delete on VS
+
+add more without pull
