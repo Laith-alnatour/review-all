@@ -23,6 +23,12 @@ add more without pu
 
 add more without pu 4
  main
+ inside_terminal
+
+ bye
+ byee
+
  
  hi
  hiii
+ main
