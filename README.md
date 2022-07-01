@@ -17,4 +17,9 @@ change by delete on VS
 
 add more without pu
 
+ inside_terminal
+5 th
+
+
 add more without pu 4
+ main
